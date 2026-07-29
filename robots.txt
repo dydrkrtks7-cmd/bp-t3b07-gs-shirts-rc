@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwagok-room-note.nonhyeonnight.xyz/sitemap.xml
