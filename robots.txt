@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hwagok-room-note.nonhyeonnight.xyz/sitemap.xml
+Sitemap: https://hwagok-room-note.nonhyeonnight.xyz/sitemap-pages.xml
